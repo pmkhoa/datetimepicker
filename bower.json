@@ -51,6 +51,6 @@
   "homepage": "http://xdsoft.net/jqplugins/datetimepicker/",
   "repository": {
     "type": "git",
-    "url": "git://github.com:xdan/datetimepicker.git"
+    "url": "git://github.com:pmkhoa/datetimepicker.git"
   }
 }
