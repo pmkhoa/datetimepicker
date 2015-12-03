@@ -1,4 +1,4 @@
-# datetimepicker
+# Forked from datetimepicker
 ==============
 
 **!!! The latest version of the options 'lang' obsolete. The language setting is now global. !!!**
